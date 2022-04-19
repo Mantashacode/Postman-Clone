@@ -1,0 +1,28 @@
+.navbar-main {
+  border: 1px solid rgb(173, 172, 172);
+}
+.container-fluid a {
+  display: flex;
+  align-items: center;
+  font-size: 25px;
+  font-weight: 500;
+}
+.container-fluid .home {
+  margin-left: 150px;
+  color: rgb(253, 88, 28);
+}
+.container-fluid .workspace {
+  margin-left: 80px;
+  color: rgb(253, 88, 28);
+}
+.container-fluid .apinetwork {
+  margin-left: 80px;
+  color: rgb(253, 88, 28);
+}
+.container-fluid .explore {
+  margin-left: 80px;
+  color: rgb(253, 88, 28);
+}
+.container-fluid img {
+  width: 220px;
+}

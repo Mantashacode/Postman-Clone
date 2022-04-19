@@ -1,0 +1,18 @@
+.side-component {
+  height: 100vh;
+  border-bottom: none;
+  border: 1px solid rgb(173, 172, 172);
+  margin-left: 2%;
+  margin-right: 5%;
+}
+.history h5 {
+  display: inline;
+  font-weight: 600;
+  color: #0984e3;
+}
+.history i {
+  font-size: 1.4rem;
+}
+.history {
+  overflow: auto;
+}

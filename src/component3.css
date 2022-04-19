@@ -1,0 +1,16 @@
+.response {
+  height: 55vh;
+  overflow-y: scroll;
+  padding-top: 20px;
+}
+.response .btn {
+  float: right;
+  font-weight: 600;
+  font-size: 18px;
+}
+.response .btn.btn-outline-danger {
+  background-color: rgb(250, 216, 216);
+}
+.response .btn.btn-outline-success {
+  background-color: lightgreen;
+}
